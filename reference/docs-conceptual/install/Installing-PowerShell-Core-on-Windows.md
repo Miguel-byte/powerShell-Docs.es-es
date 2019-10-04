@@ -27,7 +27,7 @@ Para instalar PowerShell en un cliente de Windows o Windows Server (funciona en
 El archivo MSI tiene este aspecto: `PowerShell-<version>-win-<os-arch>.msi`
 <!-- TODO: should be updated to point to the Download Center as well -->
 
-Una vez descargado, haga doble clic en el instalador y siga las indicaciones.
+Una vez descargado, haga doble clic en el instalador y siga las indicaciones durante el proceso de instalación.
 
 El instalador crea un acceso directo en el menú de inicio de Windows.
 
