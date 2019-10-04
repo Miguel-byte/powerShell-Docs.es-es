@@ -19,7 +19,7 @@ Para obtener más información sobre cómo instalar las versiones heredadas de P
 
 ## <a name="powershell-core"></a>PowerShell Core
 
-PowerShell Core es ahora un proyecto de código abierto en [GitHub](https://github.com/powershell/powershell).
+PowerShell Core, es ahora un proyecto de código abierto en [GitHub](https://github.com/powershell/powershell).
 Consulte los siguientes artículos para obtener más información acerca de cómo instalar PowerShell Core en diversas plataformas experimentales y compatibles.
 
 - [Instalación de PowerShell Core en Windows](Installing-PowerShell-Core-on-Windows.md)
