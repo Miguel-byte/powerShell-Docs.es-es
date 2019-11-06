@@ -11,7 +11,7 @@ ms.locfileid: "62059039"
 ---
 # <a name="installing-various-versions-of-powershell"></a>Instalación de distintas versiones de PowerShell
 
-A lo largo de los años ha habido muchas versiones de PowerShell. Inicialmente, Windows PowerShell se compiló en .NET Framework y solo funcionaba en los sistemas Windows. Con la versión actual, PowerShell Core usa .NET Core 2.x como entorno de ejecución. PowerShell Core es compatible con las plataformas Windows, macOS y Linux.
+A lo largo de los años se han tenido muchas versiones de PowerShell. Inicialmente, Windows PowerShell se compiló en .NET Framework y solo funcionaba en los sistemas Windows. Con la versión actual, PowerShell Core usa .NET Core 2.x como entorno de ejecución. PowerShell Core es compatible con las plataformas Windows, macOS y Linux.
 
 ## <a name="windows-powershell"></a>Windows PowerShell
 
