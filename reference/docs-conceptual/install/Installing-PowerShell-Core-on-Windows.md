@@ -15,7 +15,7 @@ Hay varias formas de instalar PowerShell Core en Windows.
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-Para habilitar la comunicación remota de PowerShell a través de WSMan, deben cumplirse los siguientes requisitos previos:
+Para habilitar la comunicación remota con PowerShell a través de WSMan, deben cumplirse los siguientes requerimientos previos a su ejecución:
 
 - Instale el [entorno de ejecución de C universal](https://www.microsoft.com/download/details.aspx?id=50410) en las versiones de Windows anteriores a Windows 10. Está disponible mediante descarga directa o Windows Update. Los sistemas admitidos a los que se hayan aplicado todas las revisiones (incluidos los paquetes opcionales) ya lo tienen instalado.
 - Instale Windows Management Framework (WMF) 4.0 o una versión más reciente en Windows 7 y Windows Server 2008 R2. Para más información sobre WMF, consulte la [información general sobre WMF](/powershell/wmf/overview).
