@@ -11,7 +11,7 @@ ms.locfileid: "62086483"
 ---
 # <a name="installing-windows-powershell"></a>Instalación de Windows PowerShell
 
-A partir de las ediciones Windows 7 SP1 y Windows Server 2008 R2 SP1, Windows PowerShell viene instalado en Windows de forma predeterminada.
+A partir de las ediciones Windows 7 SP1 y Windows Server 2008 R2 SP1, Windows PowerShell viene instalado en el sistema operativo Windows de forma predeterminada.
 
 Si está interesado en PowerShell 6 y versiones posteriores, debe instalar PowerShell Core en lugar de Windows PowerShell. Para ello, consulte [Instalación de PowerShell Core en Windows](Installing-PowerShell-Core-on-Windows.md).
 
