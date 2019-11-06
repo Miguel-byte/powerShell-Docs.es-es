@@ -12,7 +12,7 @@ ms.locfileid: "71327866"
 ---
 # <a name="the-powershell-gallery"></a>Galería de PowerShell
 
-La Galería de PowerShell es el repositorio central del contenido de PowerShell. En ella, encontrará módulos útiles de PowerShell que contienen comandos de PowerShell y los recursos de configuración de estado deseado (DSC).
+La Galería de PowerShell es el repositorio central del contenido de PowerShell. En ella, encuentran todos los módulos útiles de PowerShell que contienen comandos de PowerShell y los recursos de configuración de estado deseado (DSC).
 También encontrará scripts de PowerShell (algunos de los cuales pueden contener flujos de trabajo de PowerShell), que describen un conjunto de tareas y proporcionan la secuenciación de dichas tareas. Algunos de estos paquetes los crea Microsoft y otros los crea la comunidad de PowerShell.
 
 ## <a name="powershellget-overview"></a>Información general de PowerShellGet
