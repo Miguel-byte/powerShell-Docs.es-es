@@ -11,7 +11,7 @@ ms.locfileid: "62058104"
 ---
 # <a name="whats-new-in-powershell-core-62"></a>Novedades de PowerShell Core 6.2
 
-La versión PowerShell Core 6.2 se centró en mejoras de rendimiento, correcciones de errores y otras actualizaciones más pequeñas relativas a los cmdlet y el lenguaje en favor de la calidad. Para ver una lista completa de las mejoras, consulte nuestros [registros de cambios](https://github.com/PowerShell/PowerShell/releases) detallados en GitHub.
+La versión PowerShell Core 6.2 se centró en mejoras de rendimiento y optimización, correcciones de errores,actualizaciones relativas a los cmdlet y además en el lenguaje en favor de la calidad. Para ver una lista completa de las mejoras, consulte nuestros [registros de cambios](https://github.com/PowerShell/PowerShell/releases) detallados en GitHub.
 
 ## <a name="experimental-features"></a>Características experimentales
 
