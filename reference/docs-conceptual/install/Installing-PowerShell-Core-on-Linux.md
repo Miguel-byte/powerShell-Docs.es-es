@@ -13,7 +13,7 @@ ms.locfileid: "73444399"
 
 Admite [Ubuntu 16.04][u16], [Ubuntu 18.04][u1804], [Ubuntu 18.10][u1810], [Ubuntu 19.04][u1904], [Debian 8][deb8], [Debian 9][deb9], [CentOS 7][cos], [Red Hat Enterprise Linux (RHEL) 7][rhel7], [openSUSE 42.3][opensuse], [openSUSE Leap 15][opensuse], [Fedora 27][fedora], [Fedora 28][fedora] y [Arch Linux][arch].
 
-Para las distribuciones de Linux que no se admiten de forma oficial, puede probar a instalar PowerShell con el [Paquete Snap de PowerShell][snap]. También puede intentar implementar los archivos binarios de PowerShell directamente mediante el [archivo `tar.gz`][tar] de Linux, pero tendrá que configurar las dependencias necesarias según el sistema operativo en pasos independientes.
+Para las distribuciones de Linux que no se admiten de forma oficial, puede probar e instalar PowerShell con el [Paquete Snap de PowerShell][snap]. También puede intentar implementar los archivos binarios de PowerShell directamente mediante el [archivo `tar.gz`][tar] de Linux, pero tendrá que configurar las dependencias necesarias según el sistema operativo en pasos independientes.
 
 Todos los paquetes están disponibles en nuestra página de [versiones][] de GitHub. Una vez instalado el paquete, ejecute `pwsh` desde un terminal. Ejecute `pwsh-preview` si instaló una [versión preliminar](#installing-preview-releases).
 
